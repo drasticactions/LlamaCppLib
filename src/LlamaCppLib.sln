@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LlamaCppLib", "LlamaCppLib\LlamaCppLib.csproj", "{CF28902E-E5F3-44A8-92F4-A8701EA77E1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LlamaCppCli", "LlamaCppCli\LlamaCppCli.csproj", "{A906DEF1-3633-46CA-8138-35560E1754D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{CF28902E-E5F3-44A8-92F4-A8701EA77E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF28902E-E5F3-44A8-92F4-A8701EA77E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF28902E-E5F3-44A8-92F4-A8701EA77E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A906DEF1-3633-46CA-8138-35560E1754D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A906DEF1-3633-46CA-8138-35560E1754D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A906DEF1-3633-46CA-8138-35560E1754D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A906DEF1-3633-46CA-8138-35560E1754D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
